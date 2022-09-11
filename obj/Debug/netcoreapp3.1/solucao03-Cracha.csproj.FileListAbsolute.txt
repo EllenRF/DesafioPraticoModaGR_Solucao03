@@ -1,0 +1,16 @@
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\bin\Debug\netcoreapp3.1\solucao03-Cracha.exe
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\bin\Debug\netcoreapp3.1\solucao03-Cracha.deps.json
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\bin\Debug\netcoreapp3.1\solucao03-Cracha.runtimeconfig.json
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\bin\Debug\netcoreapp3.1\solucao03-Cracha.runtimeconfig.dev.json
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\bin\Debug\netcoreapp3.1\solucao03-Cracha.dll
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\bin\Debug\netcoreapp3.1\solucao03-Cracha.pdb
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\obj\Debug\netcoreapp3.1\solucao03-Cracha.csproj.AssemblyReference.cache
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\obj\Debug\netcoreapp3.1\solucao03-Cracha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\obj\Debug\netcoreapp3.1\solucao03-Cracha.AssemblyInfoInputs.cache
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\obj\Debug\netcoreapp3.1\solucao03-Cracha.AssemblyInfo.cs
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\obj\Debug\netcoreapp3.1\solucao03-Cracha.csproj.CoreCompileInputs.cache
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\obj\Debug\netcoreapp3.1\solucao03-Cracha.dll
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\obj\Debug\netcoreapp3.1\solucao03-Cracha.pdb
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\obj\Debug\netcoreapp3.1\solucao03-Cracha.genruntimeconfig.cache
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\obj\Debug\netcoreapp3.1\solucao03_Cracha.Form1.resources
+C:\Users\ellen\OneDrive\Área de Trabalho\ModalGr\Cracha\solucao03-Cracha\obj\Debug\netcoreapp3.1\solucao03-Cracha.csproj.GenerateResource.cache
